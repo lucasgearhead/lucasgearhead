@@ -1,5 +1,5 @@
 ### LUCAS DIAS CUSTODIO DA SILVA
-#### Cursando Análise e Desenvolvmento de Sistemas
+#### Cursando Análise e Desenvolvimento de Sistemas
 
 ----
 
