@@ -15,7 +15,7 @@
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas dias custodio da silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas dias custodio da silva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucas-dias-custodio-da-silva-584240237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas dias custodio da silva" height="30" width="40" /></a>
 <a href="https://instagram.com/lucas.dcs.015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas.dcs.015" height="30" width="40" /></a>
 </p>
 
