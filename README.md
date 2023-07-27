@@ -1,9 +1,9 @@
 <h1 align="center">Olá👋, Eu sou Lucas Dias Custodio da Silva</h1>
-<h3 align="center">Nasci em 2004, Gosto de Carros clássicos e JDM's, amo escutar Rock. Estou curtindo a área do T.I. e estou me aprofundando neste ramo.</h3>
+<h3 align="center">Nasci em 2004, Gosto de carros clássicos e JDM's, amo escutar Rock. Estou curtindo a área do T.I. e ando me aprofundando neste ramo.</h3>
 
 - 🔭 Estou estagiando na **2RP-NET**
 
-- 🌱 Estou aprendendo **automação**
+- 🌱 Estou aprendendo **React**
 
 - 👨‍💻 Meus projetos são encontrados aqui [https://github.com/LucasDCSilva04](https://github.com/LucasDCSilva04)
 
@@ -11,7 +11,7 @@
 
 - 📫 Como me contatar **jeffersondlsilva@hotmail.com**
 
-- ⚡ Objetivo **Ser melhor a cada dia**
+- ⚡ Objetivo é **ser melhor a cada dia**
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
