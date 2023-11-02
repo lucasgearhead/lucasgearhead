@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo **React**
 
-- 👨‍💻 Meus projetos são encontrados aqui [https://github.com/LucasDCSilva04](https://github.com/LucasDCSilva04)
+- 👨‍💻 Meus projetos são encontrados aqui [LucasGearHead](https://github.com/lucasgearhead)
 
 - 💬 Me pergunte sobre **eletrônica e carros**
 
