@@ -24,5 +24,5 @@
 
 
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks](https://open.spotify.com/embed/playlist/2ZONg885GRx1XlgcsNVzLk?utm_source=generator&theme=0)https://open.spotify.com/embed/playlist/2ZONg885GRx1XlgcsNVzLk?utm_source=generator&theme=0)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/2ZONg885GRx1XlgcsNVzLk?utm_source=generator&theme=0)
 
