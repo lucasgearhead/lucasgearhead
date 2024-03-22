@@ -1,6 +1,6 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Lucas Dias Custodio da Silva</h1>
-<h3 align="center">I really like cars and video games. I'm currently studying to be a systems developer and I'm hoping for a good job opportunity.</h3>
+<h1>Hi 👋, I'm Lucas Dias Custodio da Silva</h1>
+<h3>I really like cars and video games. I'm currently studying to be a systems developer and I'm hoping for a good job opportunity.</h3>
 
 - 🌱 I’m currently learning **Mobile, Api, Database and more**
 
