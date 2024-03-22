@@ -19,6 +19,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lucasgearhead&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-
----
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=lucasgearhead&label=Profile%20Views&pretty=true" />
+</a>
