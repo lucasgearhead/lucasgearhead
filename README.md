@@ -17,8 +17,3 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=lucasgearhead&label=Profile%20Views&pretty=true" />
-</a>
