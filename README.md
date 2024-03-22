@@ -17,11 +17,3 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<iframe src="https://gifer.com/embed/6vIk" width=480 height=355.200 frameBorder="0" allowFullScreen>
-  <p>
-    <a href="https://gifer.com">
-      através de GIFER
-    </a>
-  </p>
-</iframe>
