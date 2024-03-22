@@ -1,4 +1,15 @@
+<h1 align="center">Hi 👋, I'm Lucas Dias Custodio da Silva</h1>
+<h3 align="center">I really like cars and video games. I'm currently studying to be a systems developer and I'm hoping for a good job opportunity.</h3>
 
+- 🌱 I’m currently learning **Mobile, Api, Database and more**
+
+- 👨‍💻 All of my projects are available at [https://in_progress.com](https://in_progress.com)
+
+- 💬 Ask me about **Cars**
+
+- 📫 How to reach me **lucasdiascsilva@hotmail.com**
+
+- ⚡ Fun fact **I think i am funny**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucas.dcs_) 
 
