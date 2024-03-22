@@ -3,14 +3,8 @@
 <h3>I really like cars and video games. I'm currently studying to be a systems developer and I'm hoping for a good job opportunity.</h3>
 
 - 🌱 I’m currently learning **Mobile, Api, Database and more**
-
 - 👨‍💻 All of my projects are available at [https://in_progress.com](https://in_progress.com)
-
-- 💬 Ask me about **Cars**
-
 - 📫 How to reach me **lucasdiascsilva@hotmail.com**
-
-- ⚡ Fun fact **I think i am funny**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucas.dcs_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dias-custodio-da-silva-584240237) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lucasdcs) 
@@ -26,3 +20,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucasgearhead&icon=5&color=1)](https://visitcount.itsvg.in)
+
+---
